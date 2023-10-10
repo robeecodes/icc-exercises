@@ -97,7 +97,8 @@ function draw() {
   drawHairCircle(3 * width / 5, height / 4);
   drawHairCircle(3 * width / 5 - 30, height / 4 - 10);
   drawHairCircle(3 * width / 5 - 40, height / 4);
-  drawHairCircle(3 * width / 5 - 70, height / 4 + 10);drawHairCircle(3 * width / 5 - 100, height / 4 + 30);
+  drawHairCircle(3 * width / 5 - 70, height / 4 + 10);
+  drawHairCircle(3 * width / 5 - 100, height / 4 + 30);
   drawHairCircle(3 * width / 5 - 120, height / 4 + 60);
   drawHairCircle(2 * width / 5 + 50, height / 3);
   drawHairCircle(2 * width / 5, height / 3 + 10);
