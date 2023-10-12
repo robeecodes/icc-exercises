@@ -1,5 +1,6 @@
 function setup() {
   createCanvas(800, 600);
+  background("#222222");
   
   colorMode(HSL);
 
@@ -10,8 +11,6 @@ function setup() {
 }
 
 function draw() {
-  background("#222222");
-
   noStroke();
   fill("#e156a0");
   ellipse(width / 2, height / 2, width, height);

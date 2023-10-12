@@ -1,9 +1,3 @@
-function setup() {
-  createCanvas(400, 400);
-
-  colorMode(HSL);
-}
-
 function drawHairCircle(x, y) {
   circle(
     x, y,
@@ -11,9 +5,14 @@ function drawHairCircle(x, y) {
   );
 }
 
-function draw() {
+function setup() {
+  createCanvas(400, 400);
   background("#222222");
 
+  colorMode(HSL);
+}
+
+function draw() {
   // Skull
   noStroke();
   fill("#f0c5a8");
