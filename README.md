@@ -20,4 +20,3 @@ Exercises for Introduction to Creative Coding
   - **Challenge 4** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-3/challenge-4) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-3/challenge-4/sketch/index.html)
   - **Challenge 5** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-3/challenge-5) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-3/challenge-5/sketch/index.html)
   - **Challenge 6** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-3/challenge-6) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-3/challenge-6/sketch/index.html)
-  - 
