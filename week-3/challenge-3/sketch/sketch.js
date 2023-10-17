@@ -6,6 +6,7 @@ function setup() {
 }
 
 function draw() {
+  // Change the weight based on how much the mouse has moved
   let weight = dist(mouseX, mouseY, pmouseX, pmouseY);
   stroke(328, 70, 61, random(0.2, 1.1));
   strokeWeight(weight);

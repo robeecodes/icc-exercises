@@ -43,7 +43,7 @@
 <dt><a href="#diagonalMousePosition">diagonalMousePosition(x1, y1, x2, y2)</a> ⇒ <code>number</code></dt>
 <dd><p>Find if the mouse is above or below the diagonal line. A negative number means it&#39;s above, positive is below.</p>
 </dd>
-<dt><a href="#initLine">initLine()</a></dt>
+<dt><a href="#createLine">createLine()</a></dt>
 <dd><p>Initialise the line based on the current mode</p>
 </dd>
 <dt><a href="#changeWeight">changeWeight(amount)</a></dt>
@@ -55,7 +55,7 @@
 
 <dl>
 <dt><a href="#AspectRatio">AspectRatio</a> : <code>Object</code></dt>
-<dd><p>the aspect ratio of the canvas</p>
+<dd><p>The aspect ratio of the canvas</p>
 </dd>
 </dl>
 
@@ -188,9 +188,9 @@ The difference between the mouse x-coordinate and first x-coordinate
 The difference between the mouse y-coordinate and first y-coordinate
 
 **Kind**: inner property of [<code>diagonalMousePosition</code>](#diagonalMousePosition)  
-<a name="initLine"></a>
+<a name="createLine"></a>
 
-## initLine()
+## createLine()
 Initialise the line based on the current mode
 
 **Kind**: global function  
@@ -208,13 +208,13 @@ Change the weight of the stroke
 <a name="AspectRatio"></a>
 
 ## AspectRatio : <code>Object</code>
-the aspect ratio of the canvas
+The aspect ratio of the canvas
 
 **Kind**: global typedef  
 **Properties**
 
 | Name | Type | Description |
 | --- | --- | --- |
-| width | <code>number</code> | the width of the aspect ratio of the canvas |
-| height | <code>number</code> | the height of the aspect ratio of the canvas |
+| width | <code>number</code> | The width of the aspect ratio of the canvas |
+| height | <code>number</code> | The height of the aspect ratio of the canvas |
 

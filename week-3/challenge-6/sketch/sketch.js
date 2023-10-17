@@ -26,6 +26,9 @@ let x1, x2, y1, y2, weight, mode, keyPresses, ratio;
 function setup() {
   createCanvas(800, 600);
 
+  fill("white");
+  textSize(16);
+
   ratio = getRatio(width, height);
 
   mode = "vertical";
@@ -38,14 +41,20 @@ function setup() {
 
   weight = 2;
   strokeWeight(weight);
-  stroke(328, 70, 61);
 }
 
 function draw() {
   clear();
 
   background("#222222");
+  
+  noStroke();
+  // User instructions
+  text("Left click to increase line width", 10, 30);
+  text("Press down arrow to decrease line width", 10, 60);
+  text("Press spacebar to change line orientation", 10, 90);
 
+  stroke(328, 70, 61);
   if (mouseIsPressed) { // Increase stroke width
     changeWeight(1);
   } else if (keyIsPressed && keyCode === DOWN_ARROW) { // Decrease stroke width
