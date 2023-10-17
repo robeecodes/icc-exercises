@@ -1,7 +1,7 @@
 /**
- * @typedef {Object} AspectRatio - the aspect ratio of the canvas
- * @property {number} width - the width of the aspect ratio of the canvas
- * @property {number} height - the height of the aspect ratio of the canvas
+ * @typedef {Object} AspectRatio - The aspect ratio of the canvas
+ * @property {number} width - The width of the aspect ratio of the canvas
+ * @property {number} height - The height of the aspect ratio of the canvas
 */
 
 /**
