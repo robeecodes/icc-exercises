@@ -13,3 +13,11 @@ Exercises for Introduction to Creative Coding
   - **Challenge 4** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-2/challenge-4) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-2/challenge-4/sketch/index.html)
   - **Challenge 5** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-2/challenge-5) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-2/challenge-5/sketch/index.html)
   - **Self Portrait** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-2/self-portrait) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-2/self-portrait/sketch/index.html)
+- **Week 3**
+  - **Challenge 1** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-3/challenge-1) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-3/challenge-1/sketch/index.html)
+  - **Challenge 2** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-3/challenge-2) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-3/challenge-2/sketch/index.html)
+  - **Challenge 3** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-3/challenge-3) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-3/challenge-3/sketch/index.html)
+  - **Challenge 4** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-3/challenge-4) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-3/challenge-4/sketch/index.html)
+  - **Challenge 5** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-3/challenge-5) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-3/challenge-5/sketch/index.html)
+  - **Challenge 6** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-3/challenge-6) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-3/challenge-6/sketch/index.html)
+  - 
