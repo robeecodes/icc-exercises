@@ -1,3 +1,5 @@
+let key = 1;
+
 function setup() {
   createCanvas(500, 500);
 
@@ -10,8 +12,36 @@ function draw() {
   let unit = 25;
   for (let x = unit; x < width; x += unit * 2) {
     for (let y = unit; y < height; y += unit * 2) {
-      fish(x, y, unit);
+      switch (key) {
+        case 1:
+          hourglass(x, y, unit);
+          break;
+        case 2:
+          fish(x, y, unit);
+          break;
+        case 3:
+          herringBone(x, y, unit);
+          break;
+        default:
+          zigZag(x, y, unit);
+      }
     }
+  }
+}
+
+function keyPressed() {
+  switch (keyCode) {
+    case 49:
+      key = 1;
+      break;
+    case 50:
+      key = 2;
+      break;
+    case 51:
+      key = 3;
+      break;
+    default:
+      key = 4;
   }
 }
 
