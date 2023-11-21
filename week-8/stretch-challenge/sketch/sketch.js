@@ -1,4 +1,4 @@
-let angle = 0;
+// Reference: https://grasshoppermind.files.wordpress.com/2012/08/new-door-panels.jpg
 
 function setup() {
   createCanvas(600, 600);
@@ -25,7 +25,7 @@ function draw() {
 function drawSquare() {
   noStroke();
 
-  let bgColour = color(random(360), random(60, 80), random(60, 75));
+  let bgColour = color(random(360), random(60, 75), random(50, 60));
   let complement = color((hue(bgColour) + 180) % 360, saturation(bgColour), brightness(bgColour));
 
   let flood = bgColour;
