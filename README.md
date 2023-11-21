@@ -38,3 +38,8 @@ Exercises for Introduction to Creative Coding
   - **Challenge 3** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-7/challenge-3) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-7/challenge-3/sketch/index.html)
   - **Capitalise Function** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-7/challenge-4/capitalise) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-7/challenge-4/capitalise/index.html)
   - **Glitch Picture** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-7/challenge-4/glitch) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-7/challenge-4/glitch/index.html)
+- **Week 8**
+  - **Challenge 1** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-8/challenge-1) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-8/challenge-1/sketch/index.html)
+  - **Challenge 2** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-8/challenge-2) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-8/challenge-2/sketch/index.html)
+  - **Challenge 3** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-8/challenge-3) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-8/challenge-3/sketch/index.html)
+  - **Stretch Challenge** | [Repository](https://github.com/robeecodes/icc-exercises/tree/main/week-8/stretch-challenge) | [View on Github Pages](https://robeecodes.github.io/icc-exercises/week-8/stretch-challenge/sketch/index.html)
