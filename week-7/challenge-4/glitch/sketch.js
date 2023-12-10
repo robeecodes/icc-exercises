@@ -16,6 +16,8 @@ function setup() {
     bee.limitBytes(random(0.5), random(0.5, 1));
     bees.push(bee);
   }
+
+  noLoop();
 }
 
 function draw() {
