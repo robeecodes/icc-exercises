@@ -4,7 +4,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   imageMode(CENTER);
 
-  frameRate(30);
+  frameRate(1);
 
   for (let i = 0; i < 10; i++) {
     let bee = new Glitch();
@@ -16,8 +16,6 @@ function setup() {
     bee.limitBytes(random(0.5), random(0.5, 1));
     bees.push(bee);
   }
-
-  noLoop();
 }
 
 function draw() {
